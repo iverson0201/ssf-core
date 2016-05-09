@@ -1,0 +1,8 @@
+# Created by .gitignore support plugin (hsz.mobi)
+*.iml
+.idea
+target
+rebel*.xml
+.DS_Store
+AuthenticatorController.java
+AuthenticatorService.java
